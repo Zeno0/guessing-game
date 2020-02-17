@@ -11,4 +11,4 @@ It is just a simple game of guess where players have to guess provided number. I
      It makes every player guess the number. If the player made the right guess then the winner is declared.
     
 # Source: 
- Head First java book by O'Reily
+ Head First java book by O'Reilly
